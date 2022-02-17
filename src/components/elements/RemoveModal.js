@@ -37,6 +37,10 @@ export const RemoveModal = (props) => {
         variant='ghost'
         onClick={onOpen}
         color={isOver ? 'black' : 'grey'}
+        _hover={{
+          bgColor: "tomato",
+          color: 'white',
+        }}
         onMouseOver={(e) => setIsOver(true)}
         onMouseLeave={(e) => setIsOver(false)}
         onFocus={(e) => setIsOver(true)}
