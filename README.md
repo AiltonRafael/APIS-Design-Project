@@ -1,11 +1,14 @@
-### DataInfo
+## Overview
 
-Projeto Teste para Validação de Conhecimento "APIS DESIGN"
-Neste projeto foi usado o React como framework para criação do FrontEnd.
+Test Project for Knowledge Validation from "APIS DESIGN"
+In this project, React was used as a framework for creating the FrontEnd.
+In order to verification, install NPM/YARN package and, inside the root, install necessary dependencies.
 
-##
-
-Link do deploy
+## Packages used for:
+- React;
+- Chakra Ui;
+- React Icon.
+ 
 
 ## Available Scripts
 
@@ -18,8 +21,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
